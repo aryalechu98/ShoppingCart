@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+.nav{
+  /* border: 2px solid red; */
+  /* width: 100%; */
+padding: 2rem 3rem 1rem 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  /* width: 2rem; */
+  /* border: 2px solid red; */
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  margin-left: 20px;
+  font-weight: 600;
+  transform: scale(1.2);
+}
+.toggle{
+  margin-right: 14px;
+
+  /* width:2rem; */
+  /* padding:2px */
+  /* border: 2px solid red; */
+  transform: scale(1.6);
+  cursor: pointer;
+
+}
